@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Portfolio site",
+    "description": "",
+    "home_page_url": "https://SkylineDriftin.github.io",
+    "feed_url": "https://SkylineDriftin.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "David Kim"
+    },
+    "items": [
+        {
+            "id": "https://SkylineDriftin.github.io/test.html",
+            "url": "https://SkylineDriftin.github.io/test.html",
+            "title": "test",
+            "summary": "hello world",
+            "content_html": "\n  <p>\n    hello world\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "David Kim"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-30T20:55:02-08:00",
+            "date_modified": "2025-12-30T20:55:02-08:00"
+        }
+    ]
+}
